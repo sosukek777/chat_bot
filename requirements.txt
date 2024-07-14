@@ -1,0 +1,10 @@
+langchain_community
+langchain-google-genai
+python-dotenv
+beautifulsoup4
+lagnchain
+html2text
+selenium
+urllib2
+unstructured
+docarray

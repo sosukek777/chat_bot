@@ -1,0 +1,820 @@
+FNCS COMMUNITY CUPS - CHAPTER 5 SEASON 3 - OFFICIAL RULES
+7.12.2024
+The Competitive Fortnite Team
+FNCS Community Cups - Chapter 5 Season 3 - Official Rules
+
+ 
+These are the Official Rules (“Rules”) for the Chapter 5 Season 2 Fortnite FNCS Community Cups (“FNCS Cup” or “Event”), which is hosted by or on behalf of Epic Games, Inc. (“Epic”). These Rules are a legal agreement between you and Epic for your participation in the Event.
+
+ 
+Table of Contents
+
+ 
+1. Introduction and Acceptance
+
+2. Event Structure
+
+3. Player Eligibility; Epic Account Structure
+
+4. Team Rules
+
+5. Issues
+
+6. Communication
+
+7. Post-Match Process
+
+8. Code of Conduct
+
+9. Enforcement; Rules and Conduct Violations
+
+10. Disclaimers
+
+11. Publicity; Interview Consent
+
+12. Governing Law
+
+13. Waiver of Jury Trial
+
+14. Privacy
+
+15. Other Languages
+
+Attachment A: Scoring System
+
+Attachment B: Schedule
+
+Attachment C: Event Prizes
+
+ 
+1. Introduction and Acceptance
+
+ 
+1.1 Introduction.  These Rules are designed to protect the Event, and are intended to help ensure that it is fun, fair, and free from Toxic Behavior (as defined in Section 8.1).
+
+ 
+1.2 Acceptance of these Rules.  By participating in the Event, including by joining any Session or Match in the Event, or by clicking to accept these Rules, you agree to these Rules. References to “you,” “your,” and “each player” mean you and, if you are a Minor (as defined in Section 1.3), your parent or legal guardian, as the case may be.
+
+ 
+1.3 Minors.  If you are under 18 years of age (or the age of majority as defined in your country of residence) (a “Minor”), you must have permission from your parent or legal guardian to agree to these Rules and to participate in the Event. In addition, if you are a Minor, your parent or legal guardian must also agree to these Rules on behalf of themselves and your behalf. If you’re the parent or guardian of a Minor, you need to accept the Rules. If you accept the Rules as the parent or guardian of a Minor, you confirm you’re the Minor’s parent or legal guardian and you agree to supervise and be fully responsible for their participation in the Event, including compliance with these Rules.
+
+ 
+1.4 Changes to the Rules.  Epic may change these Rules from time to time by notifying you of such changes by any reasonable means, including by posting revised Rules online at https://www.fortnite.com/competitive/rules-library. By continuing to participate in the Event, you are agreeing to the updated Rules.  If you do not agree to the updated Rules, you must withdraw your participation in the Event.
+
+ 
+2. Event Structure
+
+ 
+2.1 Key Terms  
+
+ 
+“Elimination” means an occurrence where one player entirely depletes the HP and Shield (if any) of another player. Subject to Section 7.1.2, elimination credit is determined by (a) the action feed located at the bottom left corner of the gameplay screen, and (b) the UI illustrating the total number of eliminations earned during a single match.  However, elimination credit shall not be awarded to a player for any portion of a match following such player’s elimination.
+
+ 
+“Event Administrator” means any Epic employee, agents or member of the Event admin team, broadcast team, production team, event staff, or anyone else engaged by Epic for the purpose of running the Event.
+
+ 
+“Leaderboard” means the in-game leaderboard for each Session.
+
+ 
+“Match” means a single instance of competition within Fortnite that is played until a player or team achieves a Victory Royale.
+
+ 
+“Ranked” means Fortnite’s ranked, competitive mode composed of eight (8) ranks (each, a “Rank”) separated into eighteen (18) divisions (each, a “Division”) as follows:
+
+ 
+Bronze Rank: Division I
+
+Bronze Rank: Division II
+
+Bronze Rank: Division III
+
+ 
+Silver Rank: Division I
+
+Silver Rank: Division II
+
+Silver Rank: Division III
+
+ 
+Gold Rank: Division I
+
+Gold Rank: Division II
+
+Gold Rank: Division III
+
+ 
+Platinum Rank: Division I
+
+Platinum Rank: Division II
+
+Platinum Rank: Division III
+
+ 
+Diamond Rank: Division I
+
+Diamond Rank: Division II
+
+Diamond Rank: Division III
+
+ 
+
+Elite Rank
+
+ 
+Champion Rank
+
+ 
+Unreal Rank
+
+ 
+"Region” means the matchmaking region in which the Event is hosted.  There are currently six (6) regions: North America (NA); Europe (EU); Asia (ASIA); Brazil (BR); Middle East (ME); Oceania (OCE).
+
+ 
+“Session” means a set of matches that is played until a winner or multiple winners are determined by one of the following methods: (a) completion of a set number of matches or (b) completion of a set time period.
+
+ 
+“Victory Royale”  means an occurrence where a player or team meets the victory conditions of the current game mode of the match being played. Typically, this refers to obtaining a first-place placement finish.
+
+ 
+2.2 Event Format and Scoring - Champion Sparkplug FNCS Cup and Champion Kyra + Cosmic Infinity FNCS Cup
+
+ 
+2.2.1 Format
+
+ 
+For each FNCS Community Cup, all eligible players on a Duos team (as determined by Epic in accordance with these Rules) must have advanced into Bronze Rank (or higher) in Battle Royale Ranked Mode in their respective server region (“Region”) by the start of the FNCS Community Cup to be eligible to queue up and compete during the applicable FNCS Community Cup session window as listed in-game.
+
+ 
+
+Each Event will last approximately three (3) hours. Teams may participate in a maximum of ten (10) matches during the Event. Teams will earn points based on the scoring system listed in Attachment A (as applicable). Matches for the Event will count only if the match begins before the Event window closes. 
+
+ 
+
+At the conclusion of the Event, and subject to the terms and conditions herein, the top point earning teams as listed on the in-game leaderboard (“Leaderboard”) from each Region will be awarded prizes as set out in Attachment C.
+
+
+
+ 
+2.2.4 Tiebreakers.
+
+ 
+Tiebreakers will be determined in the order presented here: (1) total points scored; (2) total Victory Royales in the session; (3) average eliminations in the session; (4) average placement per match in the session; and finally (5) total seconds survived across all matches.
+
+ 
+2.2.5 Platforms.  Players acknowledge and agree that the Event is cross-platform, other players may participate in the Event on different platforms (i.e., PC, console, or mobile (as applicable)), and that different platforms may offer features, such as controllers, player interface, and/or ability to individualize certain game settings/sensitivities, etc., which may arguably provide a competitive advantage to one platform over another. Epic makes no adjustments in the Event to accommodate different platforms, and it is each player’s responsibility to select the platform they use to participate in the Event.
+
+ 
+2.3 Schedule.  The tentative schedule and dates for Events is set forth in Attachment B.  Dates may be changed; final dates and times will be displayed in-game.
+
+ 
+2.4 Rescheduling.  Epic may, in its sole discretion, change the schedule, the date and/or the game mode for any Match or Session of the Event. However, Epic will inform players of any changes at its earliest convenience.
+
+ 
+2.5 Prizes.
+
+ 
+2.5.1 Subject to Section 2.5.2, prizes will be awarded to each player based on their team’s placement within the Leaderboard at the conclusion of the applicable Round 2 session.  The specific prize awards are set forth in Attachment C.
+
+ 
+2.5.2    Prize Restricted Regions.  NOTWITHSTANDING THE FOREGOING OR ANY OTHER PROVISION OF THESE RULES TO THE CONTRARY, IF YOU ARE AN INDIVIDUAL RESIDING IN TURKEY OR RUSSIA (EACH, A “PRIZE RESTRICTED REGION”), YOU ACKNOWLEDGE AND AGREE THAT YOU ARE NOT ELIGIBLE FOR NOR ENTITLED TO WIN ANY PRIZES IN CONNECTION WITH THE EVENT.
+
+ 
+2.5.3 Prizing Information.
+
+ 
+Only eligible, ranked players who do not reside in a Prize Restricted Region (as determined by Epic in its sole discretion) will be eligible to receive the applicable prizes set forth in Section 2.5.1 (“Winning Players”). No other player will be entitled to win any prizes in connection with the Event.
+
+ 
+Prizes are awarded “as is” with no warranty or guarantee, either express or implied.  Prizes are not transferable or assignable and cannot be transferred by Winning Players.  Non-cash prizes (if any) cannot be redeemed for cash.  All prize details are at the sole discretion of Epic.  Winning Players are not entitled to any surplus between actual retail value of prize and approximate retail value, and any difference between approximate and actual value of the prize will not be awarded.  Winning Players are responsible for any costs and expenses associated with prize acceptance and use not specified herein as being provided.  Winning Players may not substitute a prize, but Epic reserves the right, at its sole discretion, in case of justified reasons, to substitute a prize (or portion thereof) with one of comparable or greater value.  Additional terms and conditions may apply to acceptance and use of a prize.
+
+ 
+If a player has already received any cosmetic awards as listed in Attachment C as part of a previous Fortnite competitive event or other method, they will not be eligible to receive the prizes for this Event. Winning Players are responsible for any costs and expenses associated with prize acceptance and use not specified herein as being provided. Winning Players may not substitute a prize, but Epic reserves the right, at its sole discretion, in case of justified reasons, to substitute a prize (or portion thereof) with one of comparable or greater value. Additional terms and conditions may apply to acceptance and use of a prize.
+
+ 
+Potential Winning Players will be notified by Epic of their status as a potential Winning Player at the email address associated with such players’ Epic Games Account (“Epic Account”) within sixty (60) days of completion of the applicable Event Session, or such other time as reasonably required by Epic for such notification, and will be subject to verification of eligibility pursuant to Section 3 and compliance with these Rules.  Potential Winning Players must keep the Epic Account that they used to compete in the Event active throughout the verification of eligibility process.
+
+ 
+Upon formal notification from Epic, a potential Winning Player shall have forty five (45) days from the date such notice was emailed to respond and provide (1) any information or materials requested by Epic for purposes of verification of eligibility pursuant to Section 3 and (2) the Release (as defined below).  Such response from a potential Winning Player must be delivered to the email address from which Epic’s notification was sent or, at Epic’s sole option, another email address specified in the notification.  The date of receipt by Epic shall be decisive for a potential Winning Player’s compliance with the deadlines set forth in this Section 2.5.3.
+
+ 
+In the event of (a) the failure by any such player to (i) keep the Epic Account that such player used to compete in the Event active throughout the verification of eligibility process or (ii) timely respond to any notification or request for materials or information; or (b) any such player being unable to accept or receive the prize for any reason (including for participating in the Event on, or attempting to complete the verification of eligibility process with, an Epic Games Cabined Account (“Cabined Account”), or for failure to provide the necessary tax and payment information through Epic’s approved tax and payment processing vendors), then such player shall be disqualified as a potential Winning Player, and such player shall not be entitled to win any prizes in connection with the Event.  In such cases, no alternate Winning Player will be named, and Epic shall have the right, in its sole and absolute discretion, to (y) award any prize amounts that would have otherwise been awarded to such disqualified player as part of a future Game competitive event or (z) award any such prize amounts to non-profit causes and efforts.  A Winning Player will only be announced once the verification of eligibility process has been completed by Epic pursuant to these Rules.
+
+ 
+
+Winning Players will also be required to provide certain payment information to Epic, including any required tax information forms, in order to receive the prizes. Epic may withhold payment of the prizes if the Winning Player fails to provide the applicable payment forms to Epic in a timely manner.  
+
+ 
+PRIZES ARE SUBJECT TO APPLICABLE INTERNATIONAL, FEDERAL, STATE, AND LOCAL TAXES (INCLUDING, BUT NOT LIMITED TO, INCOME AND WITHHOLDING TAXES) AND IT IS THE RESPONSIBILITY OF EACH WINNING PLAYER TO (I) CHECK WITH SUCH WINNING PLAYER’S LOCAL TAX ADVISOR TO DETERMINE WHICH TAXES APPLY TO SUCH WINNING PLAYER AND (II) PAY SUCH TAXES TO THE APPROPRIATE TAX AUTHORITY.  It is Epic's policy to withhold tax at the backup withholding rates in effect for US and non-US residents.  Prize income and tax withholding will be reported on forms (y) 1099-MISC for US residents and 1042-S for non-US residents, and (z) any other relevant tax forms as may be required by applicable law.  
+
+ 
+Epic will determine the payment method for the prizes in its sole discretion and, except as otherwise required by applicable law, all payments will be made directly to the Winning Player in such Winning Player’s capacity as an individual (or, if a Minor, to the Winning Player’s parent or legal guardian).  No prize payments will be made by Epic to any organization, company, or other entity.  Each Winning Player will be provided a Prize Acceptance and Release Form (“Release”).  Unless restricted by applicable law, each Winning Player (or, if a Minor, such Winning Player’s parent or legal guardian) will be required to complete and submit the Release in accordance with the deadlines set forth in this Section 2.5.3.  In addition, by accepting a prize, the Winning Player agrees (or such Winning Player’s parent or legal guardian agrees) to release Epic from any and all liability, loss, or damage arising from or in connection with awarding, receipt, and/or use or misuse of prize or participation in any prize-related activities.
+
+ 
+3. Player Eligibility; Epic Account Status.
+
+ 
+To be eligible to participate in any Event Match or receive any prizes in connection with an Event, you must meet the eligibility criteria in this Section.
+
+ 
+3.1 Player Age; Cabined Accounts.  You must be at least 13 years old (or such other age, if greater, as may be required in your country of residence).  You cannot use a Cabined Account to participate in the Event.
+
+ 
+3.2 Epic TOS and Fortnite EULA.  You must comply with Epic’s Terms of Service (“Epic TOS”) (https://www.epicgames.com/site/en-US/tos) and the Fortnite End User License Agreement (“Fortnite EULA”) (https://www.epicgames.com/fortnite/eula), including all rules, policies and other terms referenced in the Epic TOS and the Fortnite EULA. These Rules add to, and do not replace, the Fortnite EULA.
+
+ 
+3.3 2FA.  You must enable (if not already enabled) Two-Factor Authentication (“2FA”) on your Epic Account.  To enable 2FA, please visit https://epicgames.com/2FA, log in to your Epic Accounts, and follow the onscreen instructions. 
+
+ 
+3.4 Epic Affiliation.  Employees, officers, and directors of Epic, agents and representatives of Epic (including the legal, promotion, and advertising agencies of Epic) and their immediate family members (defined as spouse, mother, father, sisters, brothers, sons, daughters, uncles, aunts, nephews, nieces, grandparents, and in-laws, regardless of where they live) and those living in their household (whether or not related), and each person or entity connected with the production or administration of the Event, and each parent company, affiliate, subsidiary, agent and representative of Epic are not eligible to participate and/or win prizes associated with the Event. 
+
+ 
+3.5 Player Names.
+
+ 
+3.5.1 All team and individual player names must follow the Code of Conduct in Section 8. Epic and the Event Administrators each may restrict or change team and individual player tags or screen names for any reason.
+
+ 
+3.5.2 The name used by a team or player may not include or make use of the 
+
+terms Fortnite, Epic, or any other trademark, trade name, or logo owned by or licensed to Epic.
+
+ 
+3.5.3 The name used by a team or player cannot be an impersonation of another team, player, streamer, celebrity, government official, Epic employee, or any other person or entity.
+
+ 
+3.6 Good Standing; Account Level.
+
+ 
+3.6.1 The Epic Account you use in connection with the Event must be in good standing, with no undisclosed violations. This also means that your Epic Account must be registered in your name, and cannot have been previously purchased, gifted, or otherwise transferred from another player. 
+
+ 
+3.6.2. You (and your Epic Account) must be free of or have fully served any suspensions or other sanctions imposed in connection with a previous violation of any official Epic rules. Additionally, you will not be able to participate further in the Event if you receive a competitive ban of 14 days or longer during the Event.
+
+ 
+3.6.3 Your Epic Account must be level fifteen (15) or above. This information can be found in the in-game “Career” tab.
+
+ 
+3.6.4 Epic may share tournament leaderboard information with Sony for any players participating on PlayStation 4 or PlayStation 5 devices.
+
+ 
+3.7 Additional Restrictions.
+
+ 
+3.7.1 The Event in all parts is open to players from across the world, except as otherwise provided in this Section.  The Event is not open to individuals wherever restricted or prohibited by applicable law or in any country where participation is prohibited by U.S. law (“Prohibited Countries”), including Cuba, Iran, Iraq, North Korea, Somalia, Sudan, Syria, and the regions of Crimea, Donetsk, and Luhansk.
+
+ 
+3.7.2 You may not participate in the Event using iOS devices. 
+
+ 
+3.7.3 During the entire Event, only a single player may play on a given game device.  This means you cannot use the same device as other players during the Event.
+
+ 
+3.7.4 You may only have one (1) entry (using one (1) Epic Account) into the Event for a given Session. You are expressly prohibited from having additional Event entries using additional or secondary Epic Account(s).
+
+ 
+4. Team Rules.
+
+ 
+4.1 Duo
+
+ 
+During the Event, all players on a team must be present and partied up together to participate. If a team does not have all members present and partied up together by the start time for a given match, it will be considered to have finished in (or tied for) last place with zero eliminations for that match.
+
+ 
+4.1.1 All members of a team that are eligible to receive a prize as set forth in Section 2 must meet the eligibility requirements set out in Section 3 in order to be eligible to receive such prizes. If one member of a team fails the verification of eligibility process, all members of that team will be disqualified as Potential Winning Players, and that team shall not be entitled to win any prizes in connection with the Event.  However, if a team member resides within a Prize Restricted Region, that shall not automatically force a disqualification of the other team member as a Potential Winning Player.
+
+ 
+4.1.2 Except as otherwise expressly set forth herein, all of the Event Administrators’ rights pursuant to these Rules relate to and are exercisable against the team as a whole and each individual member of the team. If any right of disqualification arises as to any individual member of the team, then the Event Administrator may exercise the right of disqualification against the team as a whole. 
+
+ 
+4.1.3 Earned qualification spots (as applicable) cannot be transferred, sold, traded, or gifted to any person or organization. This means that earned qualification spots will always be connected directly to the entire team as a whole.
+
+ 
+4.1.4    Each member of a team shall be deemed to have jointly and severally made and entered into all of the representations, warranties, and agreements contained herein and shall be jointly and severally obligated and bound thereby. Except as otherwise expressly set forth herein, all of the Event Administrators’ rights pursuant to these Rules relate to and are exercisable against the team as a whole and each individual member of the team. If any right of disqualification arises as to any individual member of the team, then the right of disqualification may be exercised against the team as a whole, as the Event Administrators may elect in their sole discretion. 
+
+ 
+5. Issues.
+
+ 
+5.1 Definition of Terms.
+
+ 
+“Bug” means an error, flaw, failure, fault or other technical issue that produces an incorrect or unexpected result, or otherwise causes Fortnite and/or a hardware device to behave in unintended ways.
+
+ 
+“Intentional Disconnection” means a player losing connection to Fortnite due to the player’s actions or inaction. Intentional disconnection is not considered a valid technical issue for the purposes of a remake. 
+
+ 
+“Server Crash” means all players losing connection to Fortnite due to an issue with the game server.
+
+ 
+“Unintentional Disconnection” means a player losing connection to Fortnite due to problems or issues with the game client, platform, network, or PC.
+
+ 
+5.2 Technical Issues.
+
+ 
+5.2.1 Due to the nature and scale of online competition, except as otherwise determined by Epic in its sole discretion, Matches will not be restarted or made null due to Bugs, Intentional Disconnections, Server Crashes, or Unintentional Disconnections. Except as otherwise determined by Epic in its sole discretion, any Bug encounters must be played through and will not be cause for a remake.
+
+ 
+5.2.2 Players are prohibited from taking advantage of or otherwise exploiting any Bug that allows a player to participate in any Event round or stage without having first qualified for such round or stage pursuant to the terms of these Rules.
+
+ 
+6. Communication.
+
+ 
+6.1 Event Administrators will be available to answer player-specific questions and provide additional assistance throughout the Event via the official player support channel found here: https://www.discord.gg/fncompetitivesupport. Any answers or comments provided online do not change these Rules.
+
+ 
+7. Post-Match Process.
+
+ 
+7.1 Scoring.
+
+ 
+7.1.1 The Fortnite game client will record and report a player’s score at the conclusion of such player’s participation in a Match.
+
+ 
+7.1.2 At times, unforeseen issues may arise that result in score reporting delays and/or inaccuracies. For the duration of the Event, the score displayed within the Leaderboard will be the official score, regardless of accuracy. 
+
+ 
+7.1.3 After a Round has ended, Epic may adjust the Leaderboard standings (typically due to players or teams being disqualified and removed from the Leaderboard for breaking these Rules). For advancement purposes, at the end of the applicable Round, the Leaderboard standings will be snapshotted, and those advancements will be immediately awarded and considered “final” for purposes of player or team advancement only, subject in all cases to final adjustment and confirmation by Epic.
+
+ 
+8. Code of Conduct.
+
+ 
+8.1 Personal Conduct; No Toxic Behavior.
+
+ 
+8.1.1 All players must conduct themselves in a way that is at all times consistent with (a) the Code of Conduct in this Section 8 (“Code of Conduct”) and (b) the general principles of personal integrity, honesty, and good sportsmanship.
+
+ 
+8.1.2 Players must be respectful of other players, Event Administrators, spectators, and sponsors (as applicable).
+
+ 
+8.1.3 Players shall not behave in a manner that (a) violates these Rules, (b) is disruptive, unsafe or destructive, or (c) is otherwise harmful to the enjoyment of Fortnite by other users as intended by Epic (as determined by Epic). In particular, players shall not engage in harassing or disrespectful conduct, use of abusive or offensive language, game sabotage, spamming, social engineering, scamming, or any unlawful activity (“Toxic Behavior”).
+
+ 
+8.1.4 Players shall not (a) proclaim to be, or represent themselves as, a banned player or a cheater/rule breaker, or (b) glorify or otherwise endorse the breaking or violation of these Rules.
+
+ 
+8.1.5 Any violation of these Rules may expose a player to disciplinary action as further described in Section 9.3, whether or not that violation was committed intentionally.
+
+ 
+8.2 Competitive Integrity.
+
+ 
+8.2.1 Each player is expected to play within the spirit of Fortnite and these Rules at all times during any Event Match.  Any form of unfair play is prohibited by these Rules and may result in disciplinary action.  Examples of unfair play include the following:
+
+ 
+Collusion (as defined below), match fixing or throwing, bribing a referee or match official, or any other unfair or illegal action or agreement to intentionally influence (or attempt to influence) the outcome of any match or Event.
+ 
+Hacking or otherwise modifying the intended behavior of the game client.
+ 
+Playing or allowing another player to play on an Epic Account registered in another person’s name (or soliciting, encouraging, or directing someone else to do so).
+ 
+Using any kind of cheating device, program, or similar cheating method to gain a competitive advantage.
+ 
+Intentionally exploiting any game function (e.g., an in-game Bug or glitch) in a manner not intended by Epic in order to gain a competitive advantage.
+ 
+Using distributed denial of service attacks, swatting, or similar methods to interfere with another player’s connection to Fortnite’s game client.
+ 
+Using macro keys or similar methods to automate in-game actions.
+ 
+Accepting any gift, reward, bribe, or compensation for services promised, rendered, or to be rendered in connection with unfair play of Fortnite (e.g., services designed to throw or fix a Match or Session).
+ 
+Utilizing outside assistance regarding the location of other players, other players’ health or equipment, or any other information not otherwise known to the player by the information on his or her own screen (e.g., looking at or attempting to look at spectator monitors while currently in a match). For clarity, a player’s receipt of coaching or use of the in-game replay tool does not fall within this prohibition.
+ 
+Intentionally Disconnecting from Fortnite after you or a member of your team takes damage. For clarity, this only applies to players who Intentionally Disconnect with a member of their team receiving damage within 60 seconds prior to the Intentional Disconnection.
+ 
+8.2.2 Players may not work together to deceive or otherwise cheat other players during any Match (“Collusion”). Examples of Collusion include the following:
+
+ 
+Teaming: Players working together during the Match while on opposing teams.
+ 
+Planned Movement: Agreement between two (2) or more opposing players to land at specific locations and move through the map in a planned way before the Match begins.
+ 
+Communication: Sending or receiving signals (both verbal and non-verbal) to communicate with opposing players.
+ 
+Item Dumping: Intentionally dropping items for an opposing player to collect.
+ 
+Feeding: Intentionally allowing oneself to be eliminated by an opposing player.
+ 
+8.3 Wagering.  Players shall not (a) conduct or promote betting, wagering, or gambling on the Event or any portion thereof, or (b) benefit, either directly or indirectly, from betting, wagering, or gambling on the Event or any portion thereof.
+
+ 
+8.4 Harassment.  Players are prohibited from engaging in any form of harassing, abusive, or discriminatory conduct, including any of the foregoing based on race, color, ethnicity, national origin, religion, political opinion or any other opinion, gender, gender identity, sexual orientation, age, disability, or any other status or characteristic protected under applicable law.
+
+ 
+8.5 Confidentiality.  A player may not disclose to any third party any confidential information the player obtains in connection with the Event, including by posting on social media channels.
+
+ 
+8.6 Illegal Conduct.  Players are required to comply with all applicable laws at all times.  Any attempt to deliberately damage or undermine the legitimate operation of the Event may be in violation of criminal and civil laws and will result in disqualification from participation in the Event.  If an attempt is made, Epic reserves the right to seek remedies and damages (including attorneys’ fees) to the fullest extent of the law, including criminal prosecution.
+
+ 
+8.7  Reporting.  Any player who witnesses or is subjected to conduct that the Code of Conduct should notify an Epic Esports Coordinator or Event Administrator. All complaints reported pursuant to this Section 8.7 will be promptly investigated and appropriate action will be taken. Retaliation against any player who brings forward a complaint or cooperates in the investigation of a complaint is prohibited.
+
+ 
+9. Enforcement; Rules and Conduct Violations.
+
+ 
+9.1 Enforcement.  Epic will have primary responsibility for enforcing these Rules for all players at the Event and may, working with the Event Administrators (as defined below), impose sanctions on players for violations of these Rules, as further described in Section 9.
+
+ 
+9.2 Investigation and Compliance.
+
+ 
+9.2.1 You must fully cooperate with Epic and/or an Event Administrator (as applicable) in the investigation of any violation or suspected violation of these Rules. If Epic and/or an Event Administrator contacts you to discuss the investigation, you must be truthful in the information that you provide to Epic and/or an Event Administrator. Any player found to have withheld, destroyed, or tampered with any related information, or otherwise found to have misled Epic and/or an Event Administrator during an investigation, will be subject to disciplinary action as further described in Section 9.3.
+
+ 
+9.2.2 Epic has the right, in its sole discretion, to remove a player from, or restrict such player’s participation in, any Event activity as part of any investigation conducted by Epic and/or an Event Administrator (as applicable) pursuant to Section 9.2.1.
+
+ 
+9.3 Disciplinary Action.
+
+ 
+9.3.1 If Epic determines that a player has violated the Code, Epic may take the following disciplinary actions (as applicable):
+
+ 
+Issue a private or public warning (verbal or written) to the player;
+ 
+Loss of Session Points for the current or future Match(es);
+ 
+Loss of all or any part of the prizes previously awarded to the player;
+ 
+Disqualify the player from participating in one or more Matches and/or Sessions at the Event; and/or
+ 
+Prevent the player from participating in one or more future competitions hosted by Epic.
+ 
+9.3.2 For clarity, the nature and extent of the disciplinary action taken by Epic pursuant to this Section 9.3 will be in the sole and absolute discretion of Epic. Epic reserves the right to seek damages and other remedies from such player to the fullest extent permitted by applicable law. 
+
+ 
+The enforcement of any applicable sanction by Epic shall not provide such player with grounds for claims against Epic under any theory of law, or otherwise be considered a liability on the part of Epic to such player.
+
+ 
+9.3.3 If Epic determines that there have been repeated breaches of these Rules by a player, it may hand out increasing disciplinary action, up to and including permanent disqualification from all future competitive play of Fortnite hosted or administered by or on behalf of Epic.  Epic may also enforce any of its rights under Epic’s Terms of Service and/or the Fortnite EULA in the event of a violation.
+
+ 
+9.3.4 All Rules violations at the Event will be determined by Epic in its sole discretion and governed by the Epic Competitive Violation Matrix. A final decision by Epic as to the appropriate disciplinary action will be final and binding on all players.
+
+ 
+9.3 Rule Disputes.  Epic has final, binding authority to decide all disputes with respect to any portion of these Rules, including the breach, enforcement, or interpretation thereof.
+
+ 
+10. Disclaimers.  TO THE MAXIMUM EXTENT ALLOWED BY LAW, EPIC AND ITS AFFILIATES AND THE EVENT ADMINISTRATORS WILL NOT BE LIABLE FOR (A) ANY TECHNICAL ISSUES OR OTHER DISRUPTIONS TO THE EVENT, INCLUDING ANY LOSS OR CORRUPTION OF DATA, (B) THE MISCONDUCT OF ANY PLAYERS OR OTHER THIRD PARTIES, (C) ANY INJURIES (INCLUDING DEATH) OR PROPERTY DAMAGE ARISING FROM ANY PRIZES OR PARTICIPATION IN THE EVENT, (D) ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, OR (E) ANY PRINTING, TYPOGRAPHICAL OR ADMINISTRATIVE ERRORS IN ANY MATERIALS ASSOCIATED WITH THE EVENT. EPIC RESERVES THE RIGHT TO SUSPEND, MODIFY OR CANCEL THE EVENT IN ITS SOLE DISCRETION SHOULD A VIRUS, BUG, OR OTHER TECHNICAL ISSUE, UNAUTHORIZED INTERVENTION, NATURAL DISASTER, OR OTHER CAUSE BEYOND EPIC’S CONTROL AFFECT THE ADMINISTRATION, SECURITY, OR PROPER PLAY OF THE EVENT, OR EPIC OTHERWISE BECOMES (AS DETERMINED IN ITS SOLE DISCRETION) INCAPABLE OF RUNNING THE EVENT AS ORIGINALLY PLANNED.
+
+ 
+11. Publicity; Interview Consent.
+
+ 
+11.1 Epic may use your name, tag, likeness, image, voice, gameplay statistics, and/or Epic Account ID or other biographical information, for publicity purposes before, during, and after the Event, in any manner and media, throughout the world, in perpetuity, but only in connection with publicizing the Event or other Fortnite events and programming, without any compensation or prior review.
+
+ 
+11.2 If you are given an opportunity to participate in an interview in connection with the Event (each, an “Interview”), you consent to be recoded for the Interview, and you hereby grant to Epic a royalty-free, worldwide license (with the right to grant sublicenses) to use your statements and any audio/video footage from the Interview, as well as your name, tag, likeness, image, voice, gameplay statistics, Epic Account ID, and other biographical information (collectively, “Interview Materials”) in connection with the Interview. Your participation in an Interview is voluntary, and you are not entitled to compensation for an Interview or this license. Epic has no obligation to interview you or use Interview Materials. You can withdraw this license at any time by contacting an Event Administrator at tournaments@epicgames.com, however this will not affect any uses Epic has made of such license before the withdrawal.
+
+ 
+12. Governing Law.  The internal laws of the State of North Carolina, without reference to any of its conflicts of laws principles, shall govern these Rules, including any disputes regarding these Rules and/or the Event.
+
+ 
+13. Waiver of Jury Trial.  EXCEPT AS PROHIBITED BY APPLICABLE LAW AND AS A CONDITION OF PARTICIPATING IN THIS EVENT, EACH PARTICIPANT HEREBY IRREVOCABLY AND PERPETUALLY WAIVES ANY RIGHT S/HE MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS EVENT, ANY DOCUMENT OR AGREEMENT ENTERED INTO IN CONNECTION HEREWITH, ANY PRIZE AVAILABLE IN CONNECTION HEREWITH, AND ANY OF THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY.
+
+ 
+14. Privacy.  Please refer to Epic’s privacy policy located at https://www.epicgames.com/site/en-US/privacypolicy for important information regarding the collection, use and disclosure of personal information by Epic.
+
+ 
+15 Other Languages.  These Rules may be translated into other languages. In the event of any conflict or inconsistency between any translated version of these Rules and the English version of these Rules, the English version shall prevail, govern and control.
+
+ 
+
+Attachment A
+
+ 
+Scoring System
+
+ 
+Champion Sparkplug FNCS Cup and Champion Kyra + Cosmic Infinity FNCS Cup
+
+ 
+Placement
+
+ 
+Victory Royale: 65 Points
+
+2nd: 56 Points
+
+3rd: 52 Points
+
+4th: 48 Points
+
+5th: 44 Points
+
+6th: 40 Points
+
+7th: 38 Points
+
+8th: 36 Points
+
+9th: 34 Points
+
+10th: 32 Points
+
+11th: 30 Points
+
+12th: 28 Points
+
+13th: 26 Points
+
+14th: 24 Points
+
+15th: 22 Points
+
+16th: 20 Points
+
+17th: 18 Points
+
+18th: 16 Points
+
+19th: 14 Points
+
+20th: 12 Points
+
+21st: 10 Points
+
+22nd: 8 Points
+
+23rd: 6 Points
+
+24th: 4 Points
+
+25th: 2 Points
+
+ 
+
+Each Elimination: 2 Points
+
+
+
+ 
+Attachment B
+
+ 
+Schedule
+
+ 
+July 16: Champion Sparkplug Cup (All Regions)
+
+July 20: Champion Kyra + Cosmic Infinity FNCS Cup (All Regions)
+
+
+Attachment C
+
+ 
+Prizes 
+
+ 
+Champion Sparkplug FNCS Cup
+
+The following prizes will be awarded to each player on a team based on their team’s placement within the Leaderboard at the conclusion of the Event.
+
+ 
+OCE
+
+Rank  Prize
+
+1st - 100th “Champion Sparkplug” In-Game Cosmetic Outfit
+
+1st - 100th “Winner's Emblem” In-Game Cosmetic Backbling
+
+1st - 100th “Scarlet Champion" In-Game Cosmetic Pickaxe
+
+1st - 100th “FNCS Elite” In-Game Cosmetic Wrap
+
+1st - 100th “Bouncin' Back” In-Game Lobby Track
+
+ 
+ASIA
+
+Rank  Prize
+
+1st - 250th “Champion Sparkplug” In-Game Outfit
+
+1st - 250th “Winner's Emblem” In-Game Backbling
+
+1st - 250th “Scarlet Champion" In-Game Cosmetic Pickaxe
+
+1st - 250th “FNCS Elite” In-Game Cosmetic Wrap
+
+1st - 250th “Bouncin' Back” In-Game Lobby Track
+
+ 
+ME
+
+Rank  Prize
+
+1st - 100th “Champion Sparkplug” In-Game Outfit
+
+1st - 100th “Winner's Emblem” In-Game Backbling
+
+1st - 100th “Scarlet Champion" In-Game Cosmetic Pickaxe
+
+1st - 100th “FNCS Elite” In-Game Cosmetic Wrap
+
+1st - 100th “Bouncin' Back” In-Game Lobby Track
+
+ 
+EU
+
+Rank  Prize
+
+1st - 1300th “Champion Sparkplug” In-Game Outfit
+
+1st - 1300th “Winner's Emblem” In-Game Backbling
+
+1st - 1300th “Scarlet Champion" In-Game Cosmetic Pickaxe
+
+1st - 1300th “FNCS Elite” In-Game Cosmetic Wrap
+
+1st - 1300th “Bouncin' Back” In-Game Lobby Track
+
+ 
+BR
+
+Rank  Prize
+
+1st - 250th “Champion Sparkplug” In-Game Outfit
+
+1st - 250th “Winner's Emblem” In-Game Backbling
+
+1st - 250th “Scarlet Champion" In-Game Cosmetic Pickaxe
+
+1st - 250th “FNCS Elite” In-Game Cosmetic Wrap
+
+1st - 250th “Bouncin' Back” In-Game Lobby Track
+
+ 
+NA
+
+Rank  Prize
+
+1st - 1000th “Champion Sparkplug” In-Game Outfit
+
+1st - 1000th “Winner's Emblem” In-Game Backbling
+
+1st - 1000th “Scarlet Champion" In-Game Cosmetic Pickaxe
+
+1st - 1000th “FNCS Elite” In-Game Cosmetic Wrap
+
+1st - 1000th “Bouncin' Back” In-Game Lobby Track
+
+ 
+Champion Kyra + Cosmic Infinity FNCS Cup
+
+ 
+
+The following prizes will be awarded to each player on a team based on their team’s placement within the Leaderboard at the conclusion of the Event.
+
+ 
+
+Rank  Prize
+
+1st - 100th “Champion Kyra” In-Game Cosmetic Outfit
+
+1st - 100th “Cosmic Infinity” In-Game Cosmetic Outfit
+
+1st - 100th “Competitive Crest” In-Game Cosmetic Backbling
+
+1st - 100th “Competitive Slicer” In-Game Cosmetic Pickaxe
+
+1st - 100th “Break Through” In-Game Lobby Track
+
+1st - 100th “Recoil Reactor” In-Game Cosmetic Wrap
+
+1st - 100th “Soaring Shield” In-Game Contrail
+
+1st  “Victory Trophy” In-Game Emote
+
+ 
+8 Points “Infinite Victory” In-Game Cosmetic Spray
+
+ 
+ASIA
+
+Rank  Prize
+
+1st - 250th “Champion Kyra” In-Game Cosmetic Outfit
+
+1st - 250th “Cosmic Infinity” In-Game Cosmetic Outfit
+
+1st - 250th “Competitive Crest” In-Game Cosmetic Backbling
+
+1st - 250th “Competitive Slicer” In-Game Cosmetic Pickaxe
+
+1st - 250th “Break Through” In-Game Lobby Track
+
+1st - 250th “Recoil Reactor” In-Game Cosmetic Wrap
+
+1st - 250th “Soaring Shield” In-Game Contrail
+
+1st  “Victory Trophy” In-Game Emote
+
+ 
+8 Points “Infinite Victory” In-Game Cosmetic Spray
+
+ 
+ME
+
+Rank  Prize
+
+1st - 100th “Champion Kyra” In-Game Cosmetic Outfit
+
+1st - 100th “Cosmic Infinity” In-Game Cosmetic Outfit
+
+1st - 100th “Competitive Crest” In-Game Cosmetic Backbling
+
+1st - 100th “Competitive Slicer” In-Game Cosmetic Pickaxe
+
+1st - 100th “Break Through” In-Game Lobby Track
+
+1st - 100th “Recoil Reactor” In-Game Cosmetic Wrap
+
+1st - 100th “Soaring Shield” In-Game Contrail
+
+1st  “Victory Trophy” In-Game Emote
+
+ 
+8 Points “Infinite Victory” In-Game Cosmetic Spray
+
+ 
+EU
+
+Rank  Prize
+
+1st - 1300th “Champion Kyra” In-Game Cosmetic Outfit
+
+1st - 1300th “Cosmic Infinity” In-Game Cosmetic Outfit
+
+1st - 1300th “Competitive Crest” In-Game Cosmetic Backbling
+
+1st - 1300th “Competitive Slicer” In-Game Cosmetic Pickaxe
+
+1st - 1300th “Break Through” In-Game Lobby Track
+
+1st - 1300th “Recoil Reactor” In-Game Cosmetic Wrap
+
+1st - 1300th “Soaring Shield” In-Game Contrail
+
+1st  “Victory Trophy” In-Game Emote
+
+ 
+8 Points “Infinite Victory” In-Game Cosmetic Spray
+
+ 
+BR
+
+Rank  Prize
+
+1st - 250th “Champion Kyra” In-Game Cosmetic Outfit
+
+1st - 250th “Cosmic Infinity” In-Game Cosmetic Outfit
+
+1st - 250th “Competitive Crest” In-Game Cosmetic Backbling
+
+1st - 250th “Competitive Slicer” In-Game Cosmetic Pickaxe
+
+1st - 250th “Break Through” In-Game Lobby Track
+
+1st - 250th “Recoil Reactor” In-Game Cosmetic Wrap
+
+1st - 250th “Soaring Shield” In-Game Contrail
+
+1st  “Victory Trophy” In-Game Emote
+
+ 
+8 Points “Infinite Victory” In-Game Cosmetic Spray
+
+ 
+NA
+
+Rank  Prize
+
+1st - 1000th “Champion Kyra” In-Game Cosmetic Outfit
+
+1st - 1000th “Cosmic Infinity” In-Game Cosmetic Outfit
+
+1st - 1000th “Competitive Crest” In-Game Cosmetic Backbling
+
+1st - 1000th “Competitive Slicer” In-Game Cosmetic Pickaxe
+
+1st - 1000th “Break Through” In-Game Lobby Track
+
+1st - 1000th “Recoil Reactor” In-Game Cosmetic Wrap
+
+1st - 1000th “Soaring Shield” In-Game Contrail
+
+1st  “Victory Trophy” In-Game Emote
+
+ 
+8 Points “Infinite Victory” In-Game Cosmetic Spray
+
