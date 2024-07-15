@@ -1,0 +1,10 @@
+aiohttp
+async-timeout
+attrs
+chardet
+idna
+multidict
+twitchio
+typing-extensions
+websockets
+yarl
